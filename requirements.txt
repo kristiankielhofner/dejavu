@@ -1,4 +1,4 @@
-pydub
-numpy
-scipy
-matplotlib
+pydub==0.25.1
+numpy==1.22.3
+scipy==1.8.0
+matplotlib==3.5.1
